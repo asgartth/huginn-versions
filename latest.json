@@ -1,11 +1,11 @@
 {
-  "version": "0.1.1",
+  "version": "0.1.4+alpha",
   "notes": "Teste de update",
-  "pub_date": "2026-01-15T00:00:00Z",
+  "pub_date": "2026-01-27T00:00:00Z",
   "platforms": {
     "windows-x86_64": { 
-        "url": "https://github.com/asgartth/huginn-versions/releases/latest/download/lol-analytics-app_0.1.1_x64_en-US.msi", 
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZVNUVUNJbG9JNUJuRTExSGd5SDRodjR5WnlwcmR1Yk93Q0c0REpvUjR2RXdRUGhQNkpZd2t6ZVZad1B1RXZVUnNRbG9LQmZtVkdGR04xUVEwMWwwWnNnZ0lDMkRNamd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4NDUwNjE2CWZpbGU6bG9sLWFuYWx5dGljcy1hcHBfMC4xLjFfeDY0X2VuLVVTLm1zaQpaN2E2R1hZR25JOFNOdTdhWU5Qckt4UDVHbThTaExTd2g3dFJjb0hzWE9rbmUxTmtFelErNmRQYjJnQ2IrWmtUNXF5T0ZJVGxVZ1E2a1NDR2t0QUdBQT09Cg==" 
+        "url": "https://github.com/Skylithic/huginn-releases/releases/latest/download/HUGGiN - Coach_0.1.4_x64-setup.exe", 
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRZVNUVUNJbG9JNUExK3F3N3QzVElMY3JxamtsMkxtRmR2NkdnQTh1azBnZERjcEwxaWQ4Z1B3UVRWTTJVWGtUbVgvWUR0Qk1MTFVGVURwclpZa3R2UGY2anFTTmxvQ2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5NDc4NzQyCWZpbGU6SFVHR2lOIC0gQ29hY2hfMC4xLjRfeDY0LXNldHVwLmV4ZQppT1pxNFdTbit5UW4weTRNSkF1VTNMaFAwNk5FRy9CNzY3NzZQYkt3YmVrZ2M3NUhvSDZaaFdHTlF3cVVkU1d4N0pRR0xqTXA0QWEvZ3dUTE9LOVBBUT09Cg==" 
     }
   }
 }
